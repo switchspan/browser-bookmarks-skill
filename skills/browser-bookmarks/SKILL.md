@@ -2,7 +2,7 @@
 name: browser-bookmarks
 description: Clean up, dedupe, organize, link-check, merge and back up browser bookmarks in Firefox, Chrome, Chromium, Brave and Safari, on Linux, macOS or Windows, while keeping work and personal browser profiles separate. Use this whenever the user wants to tidy, sort, declutter, deduplicate, reorganize or categorize bookmarks or favorites, find dead or broken bookmark links, merge or move bookmarks between browsers or profiles, export or import bookmarks.html, or sort out work vs personal bookmarks, even if they only say "my bookmarks are a mess".
 metadata:
-  author: switchspan
+  author: Ken Taylor
   version: "1.0.0"
 ---
 
