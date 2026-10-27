@@ -1,0 +1,323 @@
+{
+   "checksum": "00000000000000000000000000000000",
+   "roots": {
+      "bookmark_bar": {
+         "date_added": "13300000001000000",
+         "date_last_used": "0",
+         "guid": "00000000-0000-0000-0000-000000000001",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder",
+         "children": [
+            {
+               "date_added": "13300000004000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000004",
+               "id": "4",
+               "name": "Gmail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/"
+            },
+            {
+               "date_added": "13300000005000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000005",
+               "id": "5",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            },
+            {
+               "date_added": "13300000006000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000006",
+               "id": "6",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }
+         ],
+         "date_modified": "0"
+      },
+      "other": {
+         "date_added": "13300000002000000",
+         "date_last_used": "0",
+         "guid": "00000000-0000-0000-0000-000000000002",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder",
+         "children": [
+            {
+               "date_added": "13300000007000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000007",
+               "id": "7",
+               "name": "Python docs",
+               "type": "url",
+               "url": "https://docs.python.org/3/"
+            },
+            {
+               "date_added": "13300000008000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000008",
+               "id": "8",
+               "name": "python docs again",
+               "type": "url",
+               "url": "http://docs.python.org/3/"
+            },
+            {
+               "date_added": "13300000009000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000009",
+               "id": "9",
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://www.github.com"
+            },
+            {
+               "date_added": "13300000010000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000a",
+               "id": "10",
+               "name": "Serious Eats - Best Chili",
+               "type": "url",
+               "url": "https://www.seriouseats.com/the-best-chili-recipe?utm_source=newsletter&utm_medium=email"
+            },
+            {
+               "date_added": "13300000011000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000b",
+               "id": "11",
+               "name": "Serious Eats chili",
+               "type": "url",
+               "url": "https://www.seriouseats.com/the-best-chili-recipe"
+            },
+            {
+               "date_added": "13300000012000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000c",
+               "id": "12",
+               "name": "Budget Bytes",
+               "type": "url",
+               "url": "https://www.budgetbytes.com/"
+            },
+            {
+               "date_added": "13300000013000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000d",
+               "id": "13",
+               "name": "NYT Cooking",
+               "type": "url",
+               "url": "https://cooking.nytimes.com/"
+            },
+            {
+               "date_added": "13300000014000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000e",
+               "id": "14",
+               "name": "Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            },
+            {
+               "date_added": "13300000015000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000000f",
+               "id": "15",
+               "name": "Ars Technica",
+               "type": "url",
+               "url": "https://arstechnica.com/"
+            },
+            {
+               "date_added": "13300000016000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000010",
+               "id": "16",
+               "name": "The Verge",
+               "type": "url",
+               "url": "https://www.theverge.com/"
+            },
+            {
+               "date_added": "13300000017000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000011",
+               "id": "17",
+               "name": "Rust Book",
+               "type": "url",
+               "url": "https://doc.rust-lang.org/book/"
+            },
+            {
+               "date_added": "13300000018000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000012",
+               "id": "18",
+               "name": "MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/"
+            },
+            {
+               "date_added": "13300000019000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000013",
+               "id": "19",
+               "name": "Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/"
+            },
+            {
+               "date_added": "13300000020000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000014",
+               "id": "20",
+               "name": "ACME Jira board",
+               "type": "url",
+               "url": "https://acme.atlassian.net/jira/software/projects/PLAT/boards/12"
+            },
+            {
+               "date_added": "13300000021000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000015",
+               "id": "21",
+               "name": "ACME wiki",
+               "type": "url",
+               "url": "https://wiki.acme.com/display/ENG/Onboarding"
+            },
+            {
+               "date_added": "13300000022000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000016",
+               "id": "22",
+               "name": "Old blog",
+               "type": "url",
+               "url": "https://this-domain-does-not-exist-zz9.invalid/posts/1"
+            },
+            {
+               "date_added": "13300000023000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000017",
+               "id": "23",
+               "name": "",
+               "type": "url",
+               "url": "https://www.rei.com/"
+            },
+            {
+               "date_added": "13300000024000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000018",
+               "id": "24",
+               "name": "Strava",
+               "type": "url",
+               "url": "https://www.strava.com/dashboard"
+            },
+            {
+               "date_added": "13300000025000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000019",
+               "id": "25",
+               "name": "AllTrails",
+               "type": "url",
+               "url": "https://www.alltrails.com/"
+            },
+            {
+               "date_added": "13300000026000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000001a",
+               "id": "26",
+               "name": "Chase",
+               "type": "url",
+               "url": "https://www.chase.com/"
+            },
+            {
+               "date_added": "13300000027000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000001b",
+               "id": "27",
+               "name": "Vanguard",
+               "type": "url",
+               "url": "https://investor.vanguard.com/"
+            },
+            {
+               "date_added": "13300000028000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000001c",
+               "id": "28",
+               "name": "Netflix",
+               "type": "url",
+               "url": "https://www.netflix.com/browse"
+            },
+            {
+               "date_added": "13300000029000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000001d",
+               "id": "29",
+               "name": "Empty",
+               "type": "folder",
+               "children": [],
+               "date_modified": "0"
+            },
+            {
+               "date_added": "13300000030000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-00000000001e",
+               "id": "30",
+               "name": "Imported From Firefox",
+               "type": "folder",
+               "children": [
+                  {
+                     "date_added": "13300000031000000",
+                     "date_last_used": "0",
+                     "guid": "00000000-0000-0000-0000-00000000001f",
+                     "id": "31",
+                     "name": "Rust Book",
+                     "type": "url",
+                     "url": "https://doc.rust-lang.org/book/"
+                  },
+                  {
+                     "date_added": "13300000032000000",
+                     "date_last_used": "0",
+                     "guid": "00000000-0000-0000-0000-000000000020",
+                     "id": "32",
+                     "name": "Recipes",
+                     "type": "folder",
+                     "children": [
+                        {
+                           "date_added": "13300000033000000",
+                           "date_last_used": "0",
+                           "guid": "00000000-0000-0000-0000-000000000021",
+                           "id": "33",
+                           "name": "Budget Bytes",
+                           "type": "url",
+                           "url": "https://budgetbytes.com"
+                        }
+                     ],
+                     "date_modified": "0"
+                  }
+               ],
+               "date_modified": "0"
+            }
+         ],
+         "date_modified": "0"
+      },
+      "synced": {
+         "date_added": "13300000003000000",
+         "date_last_used": "0",
+         "guid": "00000000-0000-0000-0000-000000000003",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder",
+         "children": [
+            {
+               "date_added": "13300000034000000",
+               "date_last_used": "0",
+               "guid": "00000000-0000-0000-0000-000000000022",
+               "id": "34",
+               "name": "Weather",
+               "type": "url",
+               "url": "https://weather.com/"
+            }
+         ],
+         "date_modified": "0"
+      }
+   },
+   "version": 1
+}

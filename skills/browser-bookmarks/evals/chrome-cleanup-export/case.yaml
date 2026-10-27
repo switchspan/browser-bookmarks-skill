@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: chrome-cleanup-export
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A bookmarks.html with duplicates removed, tracking parameters stripped, toolbar left intact, the Other Bookmarks pile sorted into a handful of sensible folders, no unique bookmark lost, the live Chrome profile untouched, and the work-looking ACME links in this personal profile called out.
